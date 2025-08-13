@@ -19,15 +19,16 @@ A compact, end‑to‑end deepfake image detector with **explanations**. The pro
 
 ---
 
-🔒 Ethics & Limitations
+🔒 Ethics & Limitations <br>
 This project is for research and educational purposes only. Deepfake detection can be dataset‑biased and may not generalize to all manipulations or domains (e.g., compression artifacts, unseen generators, video vs. still images). Do not use as the sole basis for moderation, legal, or employment decisions.
 
-🙏 Acknowledgements
-timm for model zoo & training utilities
+🙏 Acknowledgements <br>
+<ul> <li>timm for model zoo & training utilities</li>
+<li>
+pytorch‑grad‑cam for CAM visualizations</li>
 
-pytorch‑grad‑cam for CAM visualizations
+<li>Gradio for quick interactive demos</li>
 
-Gradio for quick interactive demos
 
 License
 BSD 3-Clause License
