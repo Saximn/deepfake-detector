@@ -27,7 +27,7 @@ This project is for research and educational purposes only. Deepfake detection c
 <li>
 pytorch‑grad‑cam for CAM visualizations</li>
 
-<li>Gradio for quick interactive demos</li>
+<li>Gradio for quick interactive demos</li></ul>
 
 
 License
